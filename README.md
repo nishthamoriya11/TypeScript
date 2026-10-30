@@ -31,6 +31,12 @@ This project contains 20 basic TypeScript programs designed to build a strong fo
 - `project_1.ts` — Contains the TypeScript programs.
 - `project_1.html` — Provides the HTML page used for the webpage output example.
 
+### Output:
+https://drive.google.com/drive/folders/1BoITgV2piyikI9GYWed8JuqcbKcwya62?usp=sharing
+
+### Explanation Video:
+https://drive.google.com/file/d/1jnmfWFK0SRabvZ0DssnX5wSIjYk0qYCX/view?usp=sharing
+
 ### 2. TypeScript Loop Programs
 
 **Folder:** `project_2_loop/`
@@ -66,6 +72,13 @@ This project focuses on loops and their applications in solving repetitive progr
 
 **File**
 - `loop.ts` — Contains the loop-based TypeScript programs.
+
+  ### Output:
+  https://drive.google.com/drive/folders/187m77EM57YulSIRl4eU8VRgErmwSPDvZ?usp=sharing
+
+  ### Explanation Video:
+  https://drive.google.com/file/d/1VCXv5c17b9zcge5mcWXtRP1-aVp0W9k5/view?usp=sharing
+  
 
 ## Technologies Used
 
